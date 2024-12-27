@@ -6,8 +6,7 @@ Aimed at comparing the efficiency of openGauss and PostgreSQL, we designed three
 
 ## Environment Needed
 
-$$
-\begin{aligned}
+$$\begin{aligned}
     &\text{DBMS Version}
     &&\text{openGauss 3.1.1}\\
     &\text{\quad}
@@ -16,8 +15,7 @@ $$
     &&\text{7.9.3}\\
     &\text{C++}
     &&\text{C++ 20}\\
-\end{aligned}
-$$
+\end{aligned}$$
 
 The project use C++ to interact with DBMS, so you need to introduce libpqxx under the directory. A example "CMakeLists.txt" file is as follow.
 
