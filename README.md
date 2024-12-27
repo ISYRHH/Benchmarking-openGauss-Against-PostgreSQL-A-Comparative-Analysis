@@ -19,7 +19,7 @@ $$
 \end{aligned}
 $$
 
-The project use C++ to interact with DBMS, so you need to introduce libpqxx under the directory. A example "CMakeLists.txt" file is as follow.
+The project use C++ to interact with DBMS, so you need to introduce libpqxx under the directory. An example "CMakeLists.txt" file is as follow.
 
 ```
 cmake_minimum_required(VERSION 3.5.0)
