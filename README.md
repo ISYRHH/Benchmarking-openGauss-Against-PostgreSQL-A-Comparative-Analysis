@@ -32,6 +32,6 @@ target_link_libraries(gauss PRIVATE pqxx)
 
 ## Files
 
-"project3.pdf" is a detailed introduction of the process of the project.
+"project3.pdf" is a detailed report of the process of the project.
 
 "xxx.cpp" are the codes used in the project.
